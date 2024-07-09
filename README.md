@@ -86,16 +86,6 @@ A personal portfolio website built with HTML, CSS, and JavaScript to showcase my
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuk38&show_icons=true&locale=en&layout=compact" alt="ryuk38" />
 </p>
 
-## Achievements
-
-- **Top Performer in XYZ Hackathon:** Recognized for developing an innovative solution for [Problem Statement].
-- **Dean's List:** Consistently ranked in the top 10% of my class.
-- **Open Source Contributions:** Contributed to several open-source projects on GitHub, focusing on web development and data science.
-
-## Blog Posts
-
-- [Title of Blog Post 1](https://your-blog-link.com/post-1)
-- [Title of Blog Post 2](https://your-blog-link.com/post-2)
 
 ## Contact Me
 
