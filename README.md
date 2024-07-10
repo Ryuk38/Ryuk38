@@ -38,7 +38,7 @@ Hey there! I'm Bineesh Mathew, a tech enthusiast dedicated to blending creativit
 Let's create something amazing together! 🌟✨
 
 ### 🌐 Connect with Me:
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/bineesh38/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
@@ -57,7 +57,7 @@ Let's create something amazing together! 🌟✨
 </p>
 
 ### 💻 Tech Stack
-<p align="center">
+<p align="left">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
   </a>
