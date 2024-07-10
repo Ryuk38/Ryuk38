@@ -54,7 +54,7 @@ Let's create something amazing together! 🌟✨
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/></a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40"/</a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/></a>
 </p>
 
