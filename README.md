@@ -11,7 +11,7 @@
 ### 📈 GitHub Streak
 
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryuk38)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryuk38)
 </div>
 
 ## 💫 About Me
