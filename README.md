@@ -47,10 +47,8 @@ Let's create something amazing together! 🌟✨
 </p>
 
 ### 💻 Tech Stack
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a>
- <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
-  </a>
+<p align="left"><a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a>
+ <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/></a>
