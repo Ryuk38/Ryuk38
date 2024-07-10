@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bineesh Mathew</h1>
 <h3 align="center">Aspiring Software Developer | BCA with Analytics Student | Passionate About Web Development and Technology Innovation</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ryuk38&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk38" />
 </p>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Gif" width="500" height="300" />
+</div>
 
 ## 💫 About Me
 🚀 Welcome to my GitHub universe! 🌌
@@ -34,30 +38,30 @@ Hey there! I'm Bineesh Mathew, a tech enthusiast dedicated to blending creativit
 Let's create something amazing together! 🌟✨
 
 ### 🌐 Connect with Me:
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/bineesh38/" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
   <a href="https://github.com/ryuk38" target="_blank">
-    <img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" height="30" width="40"/>
+    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
   </a>
   <a href="https://twitter.com/https://x.com/ruk_jod" target="_blank">
-    <img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" height="30" width="40"/>
+    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
   </a>
   <a href="https://www.instagram.com/38_b1neesh_/" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" height="30" width="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
   </a>
   <a href="https://www.facebook.com/bineesh.mathew.5074" target="_blank">
-    <img align="center" src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" height="30" width="40"/>
+    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
   </a>
 </p>
 
 ### 💻 Tech Stack
-<p align="left">
+<p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
   </a>
-<a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+ <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
@@ -84,8 +88,12 @@ Let's create something amazing together! 🌟✨
 </p>
 
 ### 📊 GitHub Stats
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuk38&show_icons=true&locale=en&layout=compact" alt="ryuk38" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuk38&show_icons=true&locale=en" alt="ryuk38" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuk38&show_icons=true&locale=en&layout=compact" alt="ryuk38" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuk38&show_icons=true&locale=en" alt="ryuk38" />
+</p>
 
 ### ✍️ Random Dev Quote
 <p align="center">
@@ -94,8 +102,11 @@ Let's create something amazing together! 🌟✨
 
 ### 💰 Support Me
 If you like my work, you can buy me a coffee!
-<p><a href="https://www.buymeacoffee.com/your-profile" target="_blank">
-  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60" />
-</a></p>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/your-profile" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60" />
+  </a>
+</p>
+
 
 
