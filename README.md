@@ -1,89 +1,103 @@
 <h1 align="center">Hi 👋, I'm Bineesh Mathew</h1>
 <h3 align="center">Aspiring Software Developer | BCA with Analytics Student | Passionate About Web Development and Technology Innovation</h3>
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=ryuk38&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk38" /> 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ryuk38&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk38" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryuk38&theme=light" alt="ryuk38" />
-</p>
+## 💫 About Me
+🚀 Welcome to my GitHub universe! 🌌
 
-## About Me
+Hey there! I'm Bineesh Mathew, a tech enthusiast dedicated to blending creativity with coding. Here's a peek into my digital journey:
 
-I'm a highly motivated and enthusiastic third-year BCA (Bachelor of Computer Applications) with Analytics student at Kristu Jayanti College in Bangalore. My passion for technology drives me to continuously learn and grow, with a commitment to building a successful career in the field of computer applications. I enjoy innovation and problem-solving and am currently seeking internships or part-time opportunities to gain practical experience and contribute to innovative projects.
+- 🔧 **Currently Crafting:** 
+  - Building dynamic web applications with HTML, CSS, and JavaScript.
+  - Exploring backend development with PHP and MySQL.
+  - Diving into data analysis with Python.
 
-- 🌱 I’m currently working on a Learning Management System (LMS) project
-- 💬 Ask me about Python, Web Development, and Data Science
-- 📫 How to reach me **c380bineesh@gmail.com**
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- 🌟 **Seeking Collaborators:**
+  - Looking to connect with innovative minds for exciting projects that push the boundaries of technology.
 
-## Connect with Me
+- 🆘 **Currently Learning:**
+  - Mastering advanced web development techniques.
+  - Enhancing my skills in database management.
 
+- 📚 **Always Learning:**
+  - Continuously studying new technologies and frameworks to stay ahead in the tech world.
+
+- ❓ **Ask Me Anything:**
+  - Ready to discuss coding challenges, tech trends, and innovative solutions.
+
+- 🎉 **Fun Fact:**
+  - When not coding, I enjoy dancing and exploring the intersections of art and technology.
+
+Let's create something amazing together! 🌟✨
+
+### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://github.com/ryuk38" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" height="30" width="40" />
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
+  </a>
+  <a href="https://twitter.com/your-twitter-profile" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"/>
+  </a>
+  <a href="https://www.instagram.com/your-instagram-profile/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40"/>
+  </a>
+  <a href="https://www.facebook.com/your-facebook-profile/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+  <a href="https://stackoverflow.com/users/your-stackoverflow-profile" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="40"/>
   </a>
 </p>
 
-## Languages and Tools
-
-<p align="left"> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
-  </a> 
-  <a href="https://codeigniter.com" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" alt="codeigniter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
+### 💻 Tech Stack
+<p align="left">
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
 </p>
 
-## Projects
+### 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuk38&show_icons=true&locale=en&layout=compact" alt="ryuk38" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuk38&show_icons=true&locale=en" alt="ryuk38" /></p>
 
-### Learning Management System (LMS)
-A web application developed using PHP and MySQL that allows instructors to create and manage courses, and students to enroll in and complete courses. Features include:
-- User authentication and authorization
-- Course creation and management
-- Quiz creation and grading
-
-### Portfolio Website
-A personal portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, and experience. The website is fully responsive and includes sections for:
-- About Me
-- Projects
-- Skills
-- Contact
-
-## GitHub Stats
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuk38&show_icons=true&locale=en" alt="ryuk38" />
+### ✍️ Random Dev Quote
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light" alt="random dev quote" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuk38&show_icons=true&locale=en&layout=compact" alt="ryuk38" />
-</p>
+### 💰 Support Me
+If you like my work, you can buy me a coffee!
+<p><a href="https://www.buymeacoffee.com/your-profile" target="_blank">
+  <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60" />
+</a></p>
 
-
-## Contact Me
-
-I'm always open to discussing new projects, creative ideas, or opportunities to be part of your vision. Feel free to connect with me on LinkedIn or drop me an email at **c380bineesh@gmail.com**.
