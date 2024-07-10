@@ -40,49 +40,24 @@ Let's create something amazing together! 🌟✨
 ### 🌐 Connect with Me:
 <p align="left">
   <a href="https://www.linkedin.com/in/bineesh38/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
-  <a href="https://github.com/ryuk38" target="_blank">
-    <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/>
-  </a>
-  <a href="https://twitter.com/https://x.com/ruk_jod" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/>
-  </a>
-  <a href="https://www.instagram.com/38_b1neesh_/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/>
-  </a>
-  <a href="https://www.facebook.com/bineesh.mathew.5074" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/>
-  </a>
+  <a href="https://github.com/ryuk38" target="_blank"><img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub" width="40" height="40"/></a>
+  <a href="https://twitter.com/https://x.com/ruk_jod" target="_blank"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="Twitter" width="40" height="40"/></a>
+  <a href="https://www.instagram.com/38_b1neesh_/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40" height="40"/></a>
+  <a href="https://www.facebook.com/bineesh.mathew.5074" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook" width="40" height="40"/></a>
 </p>
 
 ### 💻 Tech Stack
 <p align="left">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/>
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/bootstrap.png" alt="Bootstrap" width="40" height="40"/></a>
+ <a href="https://codeigniter.com" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
   </a>
- <a href="https://codeigniter.com" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" alt="CodeIgniter" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/>
-  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40"/</a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/></a>
 </p>
 
 ### 📊 GitHub Stats
