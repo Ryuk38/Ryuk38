@@ -87,6 +87,7 @@
 <div align="center">
   If you like my work, you can buy me a coffee!
   <br/>
+<br/>
   <a href="https://pranx.com/just-prank/" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="217" height="60" />
   </a>
