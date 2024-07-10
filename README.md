@@ -8,11 +8,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Gif" width="500" height="300" />
 </div>
-### 📈 GitHub Streak
 
-<div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryuk38)
-</div>
 
 ## 💫 About Me
 🚀 Welcome to my GitHub universe! 🌌
@@ -62,6 +58,12 @@ Let's create something amazing together! 🌟✨
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/officel/40/000000/php-logo.png" alt="PHP" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="40" height="40"/></a>
 </p>
+
+### 📈 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ryuk38)
+
+
 
 ### 📊 GitHub Stats
 <p align="center">
