@@ -35,23 +35,20 @@ Let's create something amazing together! 🌟✨
 
 ### 🌐 Connect with Me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+  <a href="https://www.linkedin.com/in/bineesh38/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
   <a href="https://github.com/ryuk38" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="40"/>
   </a>
-  <a href="https://twitter.com/your-twitter-profile" target="_blank">
+  <a href="https://twitter.com/https://x.com/ruk_jod" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" height="30" width="40"/>
   </a>
-  <a href="https://www.instagram.com/your-instagram-profile/" target="_blank">
+  <a href="https://www.instagram.com/38_b1neesh_/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" height="30" width="40"/>
   </a>
-  <a href="https://www.facebook.com/your-facebook-profile/" target="_blank">
+  <a href="https://www.facebook.com/bineesh.mathew.5074" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" height="30" width="40"/>
-  </a>
-  <a href="https://stackoverflow.com/users/your-stackoverflow-profile" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/stackoverflow/stackoverflow-original.svg" alt="Stack Overflow" height="30" width="40"/>
   </a>
 </p>
 
