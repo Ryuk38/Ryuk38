@@ -8,6 +8,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Gif" width="500" height="300" />
 </div>
+### 📈 GitHub Streak
+
+<div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ryuk38)
+</div>
 
 ## 💫 About Me
 🚀 Welcome to my GitHub universe! 🌌
