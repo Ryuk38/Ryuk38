@@ -6,6 +6,9 @@
   <img src="https://img.shields.io/github/forks/Ryuk38/Ryuk38?style=flat-square" alt="Forks"/>
   <img src="https://img.shields.io/github/watchers/Ryuk38/Ryuk38?style=flat-square" alt="Watchers"/>
 </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ryuk38&Ryuk38&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 
 <div align="center">
