@@ -2,8 +2,11 @@
 <h3 align="center">Aspiring Software Developer | BCA with Analytics Student | Passionate About Web Development and Technology Innovation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ryuk38&label=Profile%20views&color=0e75b6&style=flat" alt="ryuk38" />
+  <img src="https://img.shields.io/github/stars/Ryuk38/Ryuk38?style=flat-square" alt="Stars"/>
+  <img src="https://img.shields.io/github/forks/Ryuk38/Ryuk38?style=flat-square" alt="Forks"/>
+  <img src="https://img.shields.io/github/watchers/Ryuk38/Ryuk38?style=flat-square" alt="Watchers"/>
 </p>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" alt="Coding Gif" width="500" height="300" />
