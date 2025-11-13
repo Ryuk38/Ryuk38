@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bineesh Mathew</h1>
-<h3 align="center">Aspiring Software Developer | BCA with Analytics Student | Passionate About Web Development and Technology Innovation</h3>
+<h3 align="center">Aspiring Software Developer | M.Sc. Big Data Analytics Student | Passionate About Web Development and Technology Innovation</h3>
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/Ryuk38/Ryuk38?style=flat-square" alt="Stars"/>
